@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #94e6c5;
+}
+h1 {
+    padding: .5em;
+    color: #3a85cc;
+    font-size: 350%;
+}
+
+#container {
+    margin: 0 auto;
+    text-align: center;
+    color: #3a85cc;
+}
+
+.btn{
+    background-color: #f2c57c;
+    color: #426a5a;
+    font-size: 200%;
+    width: 20%;
+}
+
+#resetBtn {
+    margin-bottom: 2em;
+}
+
+.resetBtn {
+    background-color: #ef6f6c;
+    color: #426a5a;
+    font-size: 200%;
+    width: 20%;
+}
+
+#scoreBoard {
+    padding: 2em;
+    font-size: 200%;
+}
+
+#resultsBoard {
+    font-size: 200%;
+}
