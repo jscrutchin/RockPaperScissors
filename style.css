@@ -19,8 +19,8 @@ h1 {
 .btn{
     background-color: #f2c57c;
     color: #426a5a;
-    font-size: 200%;
-    width: 20%;
+    font-size: 2em;
+    width: 5em;
 }
 
 #resetBtn {
@@ -30,8 +30,8 @@ h1 {
 .resetBtn {
     background-color: #ef6f6c;
     color: #426a5a;
-    font-size: 200%;
-    width: 20%;
+    font-size: 2em;
+    width: 5em;
 }
 
 #scoreBoard {
